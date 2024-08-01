@@ -1,0 +1,38 @@
+.form{
+    border: 1px solid black;
+    width: 50vw;
+    margin: 0 auto;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 5px;
+    padding-bottom: 10px;
+}
+.header img{
+   width: 80px;
+   height: 80px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+table td,th{
+    border: 1px solid black;
+    
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+.second{
+    margin-top: 5px;
+    width:100% ;
+}
+table input{
+    width: 30px;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
